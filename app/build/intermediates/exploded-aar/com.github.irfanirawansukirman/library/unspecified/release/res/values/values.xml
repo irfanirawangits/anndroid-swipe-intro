@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="description_color">#333333</color>
+    <color name="material_amber">#FFC107</color>
+    <color name="material_blue">#2196F3</color>
+    <color name="material_blue_grey">#607D8B</color>
+    <color name="material_brown">#795548</color>
+    <color name="material_cyan">#00BCD4</color>
+    <color name="material_deep_orange">#FF5722</color>
+    <color name="material_deep_purple">#673AB7</color>
+    <color name="material_green">#4CAF50</color>
+    <color name="material_grey">#9E9E9E</color>
+    <color name="material_indigo">#3F51B5</color>
+    <color name="material_light_blue">#03A9F4</color>
+    <color name="material_light_green">#8BC34A</color>
+    <color name="material_lime">#CDDC39</color>
+    <color name="material_orange">#FF9800</color>
+    <color name="material_pink">#E91E63</color>
+    <color name="material_purple">#9C27B0</color>
+    <color name="material_red">#F44336</color>
+    <color name="material_teal">#009688</color>
+    <color name="material_yellow">#FFEB3B</color>
+    <color name="next_done_icon_color">#f0f0f0</color>
+    <color name="progress_circle_color">#ffffff</color>
+    <color name="skip_text_color">#f0f0f0</color>
+    <color name="title_color">#111111</color>
+    <dimen name="description_margin_bottom">16dp</dimen>
+    <dimen name="description_padding">24dp</dimen>
+    <dimen name="navigation_height">96dp</dimen>
+    <dimen name="title_padding_left">24dp</dimen>
+    <dimen name="title_padding_right">24dp</dimen>
+    <dimen name="viewstub_margin">24dp</dimen>
+    <string name="app_name">Geser-Intronya-Kang</string>
+    <string name="dummy">
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</string>
+    <style name="IntroActivity.Theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowTranslucentStatus" ns1:targetApi="19">true</item>
+    </style>
+</resources>

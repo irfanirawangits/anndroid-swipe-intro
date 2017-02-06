@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/teddy/Intermezo/GITS/modul/SwipeIntro/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/teddy/Intermezo/GITS/modul/SwipeIntro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/teddy/Intermezo/GITS/modul/SwipeIntroSample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/teddy/Intermezo/GITS/modul/SwipeIntroSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/teddy/Intermezo/GITS/modul/SwipeIntro/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/teddy/Intermezo/GITS/modul/SwipeIntro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/teddy/Intermezo/GITS/modul/SwipeIntro/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/teddy/Intermezo/GITS/modul/SwipeIntro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/teddy/Intermezo/GITS/modul/Swipe Intro/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/teddy/Intermezo/GITS/modul/Swipe Intro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/teddy/Intermezo/GITS/modul/SwipeIntroSample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/teddy/Intermezo/GITS/modul/SwipeIntroSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/teddy/Intermezo/GITS/modul/Swipe Intro/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/teddy/Intermezo/GITS/modul/Swipe Intro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/teddy/Intermezo/GITS/modul/SwipeIntroSample/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/teddy/Intermezo/GITS/modul/SwipeIntroSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/teddy/Intermezo/GITS/modul/Swipe Intro/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/teddy/Intermezo/GITS/modul/Swipe Intro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]
