@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="id.gits.simpleswipeintro.test" >
+    package="id.gits.simpleswipeintro.test">
 
-    <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="26" />
-
-    <instrumentation
-        android:name="android.support.test.runner.AndroidJUnitRunner"
-        android:functionalTest="false"
-        android:handleProfiling="false"
-        android:label="Tests for id.gits.simpleswipeintro"
-        android:targetPackage="id.gits.simpleswipeintro" />
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="26" />
 
     <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="id.gits.simpleswipeintro"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for id.gits.simpleswipeintro"/>
 </manifest>
