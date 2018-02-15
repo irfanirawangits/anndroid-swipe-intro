@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SwipeIntroSample.iml" filepath="$PROJECT_DIR$/SwipeIntroSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anndroid-swipe-intro.iml" filepath="$PROJECT_DIR$/anndroid-swipe-intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/swipe-intro/swipe-intro.iml" filepath="$PROJECT_DIR$/swipe-intro/swipe-intro.iml" />
     </modules>
